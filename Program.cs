@@ -4,7 +4,7 @@
 // [“Russia”, “Denmark”, “Kazan”] → []
 
 // Ввод исходного массива
-string [] your_array = {"Vsevolod","Car","!0_","Joke","XD","27364","Хай","No","Yes","Com puter"};
+string [] your_array = {"Vsevolod","Car","!0_","Joke","XD","27364","Хай","No","Yes","Com puter","-2","1"};
 
 // Формирование нового массива строк
 string[] newArray = FilterArray(your_array);
